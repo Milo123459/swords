@@ -1,3 +1,3 @@
-# widgeter
+# swords
 
-Widgeter gives widgets for your terminal containing useful info via curl.
+Swords provides widgets for the terminal. Just like shields, but swords!

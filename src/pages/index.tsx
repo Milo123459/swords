@@ -8,7 +8,7 @@ export default function Home() {
 			<Sidebar />
 			<main className={styles.main}>
 				<div style={{ paddingLeft: '3%' }}>
-					<Code>widgeter, widgets for the terminal powered by curl.</Code>
+					<Code>Swords provides widgets for the terminal. Just like shields, but swords!</Code>
 					<Code>coming soon to a cinema near you</Code>
 				</div>
 			</main>

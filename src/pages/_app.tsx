@@ -7,12 +7,12 @@ function MyApp({ Component, pageProps }) {
 	return (
 		<>
 			<Head>
-				<meta property="og:title" content="Widgeter" />
+				<meta property="og:title" content="Swords" />
 				<meta
 					property="og:description"
-					content="Widgeter gives widgets for your terminal containing useful info via curl."
+					content="Swords provides widgets for the terminal. Just like shields, but swords!                    "
 				/>
-				<title>Widgeter</title>
+				<title>Swords</title>
 			</Head>
 			<Component {...pageProps} />
 		</>
