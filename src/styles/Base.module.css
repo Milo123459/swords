@@ -1,0 +1,16 @@
+@media (max-width: 600px) {
+	.grid {
+		width: 100%;
+		flex-direction: column;
+	}
+}
+.container {
+	min-height: 100vh;
+	padding: 0 0.5rem;
+	display: flex;
+	flex-direction: row;
+}
+
+.main {
+	color: white;
+}
